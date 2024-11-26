@@ -25,8 +25,11 @@
 ⠀⠀⠀⠘⠦⣄⣀⣠⠞⠀⠀⠀⠈⠉⠉⠀⠳⠤⠤⡤⠞⠀⠀⠀⠀⠀	
 </pre>
 
+***
+![system64fumo's Stats](https://github-readme-stats.vercel.app/api?username=system64fumo&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![system64fumo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=system64fumo&theme=dark&hide_border=false)
+***
+
 
 Fumo Fumo?<br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/system64)<br/>
-
-
