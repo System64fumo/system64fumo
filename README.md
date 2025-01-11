@@ -27,8 +27,8 @@
 
 ***
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=system64fumo&theme=dark&show_icons=true&hide_border=true&count_private=true" width="55%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=system64fumo&theme=dark&show_icons=true&hide_border=true&layout=compact" width="42%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=system64fumo&theme=dark&show_icons=true&hide_border=true&count_private=true" width="56.25%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=system64fumo&theme=dark&hide_border=true&layout=compact" width="43.25%"/>
 </p>
 
 ***
