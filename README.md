@@ -33,5 +33,15 @@
 
 ***
 
+<details>
+  <summary>Message for package maintainers</summary>
+
+  If you wish to package my software there are a few things i would like to request:<br>
+  1. An ARM version of the package must be available if the distro supports it.
+  2. Versions must use the commit date as i use a rolling release model.
+  3. I prefer to keep track of who's packaging what, So kindly open an issue to let me know.
+
+</details>
+
 Fumo Fumo?<br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/system64)<br/>
